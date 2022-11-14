@@ -137,3 +137,6 @@ dmypy.json
 artifacts/prepare_base_model/base_model_updated.h5
 artifacts/prepare_base_model/base_model.h5
 artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-11-13-22-32-13/train/events.out.tfevents.1668358935.mritunjay-Inspiron-5559.38086.0.v2
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-11-14-16-02-26/train/events.out.tfevents.1668421949.mritunjay-Inspiron-5559.18280.0.v2
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-11-14-16-04-49/train/events.out.tfevents.1668422092.mritunjay-Inspiron-5559.18744.0.v2
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-11-14-16-04-49/validation/events.out.tfevents.1668422742.mritunjay-Inspiron-5559.18744.1.v2
