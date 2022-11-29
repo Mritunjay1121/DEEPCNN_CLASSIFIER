@@ -3,7 +3,7 @@ from pathlib import Path
 from deepClassifier.entity import EvaluationConfig
 from deepClassifier.utils import save_json
 from urllib.parse import urlparse
-
+import mlflow
 class Evaluation:
     def __init__(self, config: EvaluationConfig):
         self.config = config
